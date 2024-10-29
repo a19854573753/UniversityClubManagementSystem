@@ -4,7 +4,7 @@
 
 # 276.UniversityClubManagementSystem
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">276.大学社团管理系统</h1></p>
